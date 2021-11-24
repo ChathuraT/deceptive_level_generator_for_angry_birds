@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Level width="2">
+  <Camera x="0" y="-1" minWidth="25" maxWidth="35" />
+  <Score highScore="530012" />
+  <Birds>
+    <Bird type="BirdRed" />
+    <Bird type="BirdRed" />
+    <Bird type="BirdRed" />
+  </Birds>
+  <Slingshot x="-12.0" y="-2.5" />
+  <GameObjects>
+    <Block type="Circle" material="wood" x="-5.86944" y="0.89831" rotation="359.8807" />
+    <Block type="RectBig" material="ice" x="-5.87254" y="-0.52122" rotation="89.63579" />
+    <Block type="RectFat" material="ice" x="-5.93415" y="-1.77941" rotation="359.9831" />
+    <Block type="RectFat" material="ice" x="-6.13584" y="-2.43184" rotation="89.77146" />
+    <Block type="RectSmall" material="stone" x="-5.49947" y="-2.4336" rotation="89.74117" />
+    <Block type="RectMedium" material="stone" x="-5.50023" y="-2.98315" rotation="359.7341" />
+    <Block type="SquareSmall" material="stone" x="-6.42031" y="-3.29076" rotation="359.7427" />
+    <Block type="SquareSmall" material="wood" x="-4.58072" y="-3.29347" rotation="0.85155" />
+    <Block type="RectFat" material="stone" x="-4.86227" y="-2.43727" rotation="89.6624" />
+    <Block type="RectFat" material="ice" x="-5.06613" y="-1.78189" rotation="359.5993" />
+    <Block type="RectBig" material="ice" x="-5.12881" y="-0.52182" rotation="89.7728" />
+    <Block type="CircleSmall" material="ice" x="-6.20806" y="-1.34229" rotation="358.9469" />
+    <Block type="CircleSmall" material="ice" x="-4.79107" y="-1.34637" rotation="358.3357" />
+    <Pig type="BasicSmall" x="-5.52398" y="-1.34192" rotation="0.18096" />
+    <Platform type="Platform" x="-6.12" y="-3.675" rotation="0" scaleX="1" scaleY="0.5156" />
+    <Platform type="Platform" x="-6.32" y="-3.675" rotation="0" scaleX="0.9844" scaleY="0.5156" />
+    <Platform type="Platform" x="-4.88" y="-3.675" rotation="0" scaleX="1" scaleY="0.5156" />
+    <Platform type="Platform" x="-4.68" y="-3.675" rotation="0" scaleX="0.9844" scaleY="0.5156" />
+    <Platform type="Platform" x="-5.5" y="-3.675" rotation="0" scaleX="1" scaleY="0.5156" />
+  </GameObjects>
+</Level>

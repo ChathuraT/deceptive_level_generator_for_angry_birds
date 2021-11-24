@@ -1,0 +1,14 @@
+<Solution levelID="28155163">
+	<Shot shotNumber="1" structureID="952362">
+		<Bird type="bird_red" />
+		<Target type="RectSmall" material="ice" x="-4.583" y="-2.2881" />
+		<Trajectory selection="low" />
+		<Tap interval="0" />
+	</Shot>
+	<Shot shotNumber="2" structureID="416144">
+		<Bird type="bird_red" />
+		<Target type="RectFat" material="stone" x="0.5788" y="-0.7546" />
+		<Trajectory selection="low" />
+		<Tap interval="0" />
+	</Shot>
+</Solution>

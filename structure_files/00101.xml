@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Level width="2">
+  <Camera x="0" y="-1" minWidth="25" maxWidth="35" />
+  <Score highScore="966832" />
+  <Birds>
+    <Bird type="BirdRed" />
+    <Bird type="BirdRed" />
+    <Bird type="BirdRed" />
+  </Birds>
+  <Slingshot x="-12.0" y="-2.5" />
+  <GameObjects>
+    <Block type="CircleSmall" material="ice" x="-5.78663" y="-0.19433" rotation="0.39473" />
+    <Block type="RectSmall" material="wood" x="-5.50339" y="-0.52015" rotation="1.39785" />
+    <Block type="SquareTiny" material="ice" x="-5.81724" y="-0.75627" rotation="1.0613" />
+    <Block type="RectTiny" material="ice" x="-5.19613" y="-0.74442" rotation="1.22602" />
+    <Block type="RectBig" material="ice" x="-5.50269" y="-0.97966" rotation="0.89832" />
+    <Block type="RectBig" material="stone" x="-5.50158" y="-1.21037" rotation="0.97469" />
+    <Block type="SquareSmall" material="ice" x="-6.4201" y="-1.55458" rotation="0" />
+    <Block type="RectTiny" material="ice" x="-5.46769" y="-1.54227" rotation="90.32854" />
+    <Block type="RectTiny" material="ice" x="-4.57315" y="-1.53519" rotation="90.28372" />
+    <Block type="RectFat" material="wood" x="-6.4199" y="-1.98001" rotation="-0.00001" />
+    <Block type="RectFat" material="wood" x="-5.50073" y="-1.98052" rotation="359.9895" />
+    <Block type="RectFat" material="wood" x="-4.5801" y="-1.98005" rotation="0.00528" />
+    <Block type="CircleSmall" material="wood" x="-5.22016" y="-0.18084" rotation="0.02738" />
+    <Pig type="BasicSmall" x="-4.73808" y="-0.63774" rotation="1.06741" />
+    <Platform type="Platform" x="-6.6325" y="-2.375" rotation="0" scaleX="0.6641" scaleY="0.5156" />
+    <Platform type="Platform" x="-6.12" y="-2.375" rotation="0" scaleX="1" scaleY="0.5156" />
+    <Platform type="Platform" x="-5.5" y="-2.375" rotation="0" scaleX="1" scaleY="0.5156" />
+    <Platform type="Platform" x="-4.88" y="-2.375" rotation="0" scaleX="1" scaleY="0.5156" />
+    <Platform type="Platform" x="-4.3675" y="-2.375" rotation="0" scaleX="0.6641" scaleY="0.5156" />
+  </GameObjects>
+</Level>

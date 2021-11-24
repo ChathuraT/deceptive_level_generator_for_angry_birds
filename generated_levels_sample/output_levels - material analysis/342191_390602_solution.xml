@@ -1,0 +1,20 @@
+<Solution levelID="66473220">
+	<Shot shotNumber="1" structureID="342191">
+		<Bird type="bird_black" />
+		<Target type="BasicSmall" material="" x="-7.0256" y="3.4227" />
+		<Trajectory selection="high" />
+		<Tap interval="0" />
+	</Shot>
+	<Shot shotNumber="2" structureID="390602">
+		<Bird type="bird_yellow" />
+		<Target type="BasicSmall" material="" x="-5.6931" y="-1.2335" />
+		<Trajectory selection="low" />
+		<Tap interval="90" />
+	</Shot>
+	<Shot shotNumber="3" structureID="390602">
+		<Bird type="bird_yellow" />
+		<Target type="BasicSmall" material="" x="-5.6879" y="-1.2304" />
+		<Trajectory selection="low" />
+		<Tap interval="90" />
+	</Shot>
+</Solution>

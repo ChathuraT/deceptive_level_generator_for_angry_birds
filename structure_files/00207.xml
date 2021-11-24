@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Level width="2">
+  <Camera x="0" y="-1" minWidth="25" maxWidth="35" />
+  <Score highScore="145751" />
+  <Birds>
+    <Bird type="BirdRed" />
+    <Bird type="BirdRed" />
+    <Bird type="BirdRed" />
+  </Birds>
+  <Slingshot x="-12.0" y="-2.5" />
+  <GameObjects>
+    <Block type="Circle" material="wood" x="-5.50082" y="4.73342" rotation="0.44725" />
+    <Block type="SquareSmall" material="wood" x="-5.50027" y="4.15578" rotation="0.2306" />
+    <Block type="RectSmall" material="stone" x="-5.501" y="3.83825" rotation="0.13321" />
+    <Block type="RectFat" material="ice" x="-5.50913" y="3.50439" rotation="0.17631" />
+    <Block type="RectTiny" material="ice" x="-5.81263" y="3.06092" rotation="90.0227" />
+    <Block type="RectTiny" material="stone" x="-5.49883" y="3.06138" rotation="90.05071" />
+    <Block type="RectTiny" material="wood" x="-5.18403" y="3.06213" rotation="90.09128" />
+    <Block type="RectBig" material="ice" x="-5.50211" y="2.7227" rotation="0.02231" />
+    <Block type="RectFat" material="ice" x="-6.4188" y="2.38471" rotation="359.9817" />
+    <Block type="RectFat" material="wood" x="-5.4994" y="2.38478" rotation="0.00727" />
+    <Block type="RectFat" material="stone" x="-4.5801" y="2.38497" rotation="0.03209" />
+    <Block type="CircleSmall" material="wood" x="-4.81342" y="3.05565" rotation="358.9668" />
+    <Block type="CircleSmall" material="ice" x="-6.18673" y="3.05515" rotation="359.0001" />
+    <Pig type="BasicSmall" x="-4.83954" y="3.48217" rotation="0.35674" />
+    <Platform type="Platform" x="-6.12" y="1.99" rotation="0" scaleX="1" scaleY="0.5156" />
+    <Platform type="Platform" x="-6.53" y="1.99" rotation="0" scaleX="0.9844" scaleY="0.5156" />
+    <Platform type="Platform" x="-5.5" y="1.99" rotation="0" scaleX="1" scaleY="0.5156" />
+    <Platform type="Platform" x="-4.88" y="1.99" rotation="0" scaleX="1" scaleY="0.5156" />
+    <Platform type="Platform" x="-4.47" y="1.99" rotation="0" scaleX="0.9844" scaleY="0.5156" />
+  </GameObjects>
+</Level>

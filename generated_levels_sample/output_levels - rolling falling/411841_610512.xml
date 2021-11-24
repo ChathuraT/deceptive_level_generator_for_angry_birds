@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Level width="2">
+	<Camera x="0" y="-1" minWidth="25" maxWidth="35" />
+	<Score highScore="75787405" />
+	<Birds>
+		<Bird type="BirdRed" />
+		<Bird type="BirdRed" />
+	</Birds>
+	<Slingshot x="-12.0" y="-2.5" />
+	<GameObjects>
+		<Pig type="BasicSmall" material="" x="-9.015" y="-1.8312" rotation="344.4762" />
+		<Pig type="BasicSmall" material="" x="-5.6694" y="4.2271" rotation="0.1746" />
+		<Block type="CircleSmall" material="ice" x="-9.5223" y="-0.5585" rotation="359.0031" />
+		<Block type="RectFat" material="ice" x="-9.5225" y="-1.2062" rotation="90.0473" />
+		<Block type="SquareSmall" material="ice" x="-9.5221" y="-1.8334" rotation="0.0233" />
+		<Block type="RectFat" material="ice" x="-9.5223" y="-2.2563" rotation="359.9899" />
+		<Block type="RectBig" material="ice" x="-9.5226" y="-2.5937" rotation="359.9798" />
+		<Block type="RectBig" material="ice" x="-9.5224" y="-2.8225" rotation="0.001" />
+		<Block type="SquareTiny" material="ice" x="-10.4418" y="-3.0511" rotation="359.9893" />
+		<Block type="SquareTiny" material="ice" x="-10.0344" y="-3.0508" rotation="359.8326" />
+		<Block type="SquareTiny" material="ice" x="-9.5221" y="-3.0504" rotation="0.0021" />
+		<Block type="SquareTiny" material="ice" x="-9.0095" y="-3.0508" rotation="0.1984" />
+		<Block type="SquareTiny" material="ice" x="-8.603" y="-3.0512" rotation="0.0076" />
+		<Block type="CircleSmall" material="wood" x="-8.8356" y="-2.2618" rotation="358.8043" />
+		<Block type="CircleSmall" material="wood" x="-10.209" y="-2.2612" rotation="358.8794" />
+		<Platform type="Platform" material="" x="-10.3425" y="-3.335" rotation="0.0" scaleX="0.6563" scaleY="0.5156" />
+		<Platform type="Platform" material="" x="-9.8325" y="-3.335" rotation="0.0" scaleX="1.0" scaleY="0.5156" />
+		<Platform type="Platform" material="" x="-9.2125" y="-3.335" rotation="0.0" scaleX="1.0" scaleY="0.5156" />
+		<Platform type="Platform" material="" x="-8.7025" y="-3.335" rotation="0.0" scaleX="0.6562" scaleY="0.5156" />
+		<Block type="TriangleHole" material="wood" x="-5.8203" y="5.3348" rotation="0.013" />
+		<Block type="SquareTiny" material="ice" x="-6.1392" y="4.7959" rotation="359.9256" />
+		<Block type="SquareTiny" material="ice" x="-5.8195" y="4.7957" rotation="359.9462" />
+		<Block type="SquareTiny" material="wood" x="-5.4995" y="4.7953" rotation="359.9067" />
+		<Block type="RectBig" material="stone" x="-5.5" y="4.5664" rotation="359.8354" />
+		<Block type="RectTiny" material="stone" x="-6.4202" y="4.2305" rotation="89.8915" />
+		<Block type="RectTiny" material="ice" x="-6.0234" y="4.2302" rotation="89.8249" />
+		<Block type="RectTiny" material="ice" x="-4.9856" y="4.2298" rotation="89.84" />
+		<Block type="RectTiny" material="ice" x="-4.5808" y="4.2287" rotation="89.8749" />
+		<Block type="RectBig" material="wood" x="-5.5001" y="3.8942" rotation="0.0172" />
+		<Block type="SquareSmall" material="stone" x="-6.4194" y="3.5843" rotation="359.9298" />
+		<Block type="SquareSmall" material="stone" x="-4.58" y="3.5849" rotation="0.0653" />
+		<Block type="SquareHole" material="wood" x="-6.4224" y="2.9555" rotation="0.0013" />
+		<Block type="SquareHole" material="stone" x="-4.5798" y="2.9556" rotation="-0.0011" />
+		<Block type="SquareTiny" material="ice" x="-5.1799" y="4.7948" rotation="359.835" />
+		<Block type="SquareTiny" material="ice" x="-4.86" y="4.7883" rotation="0.0246" />
+		<Block type="Circle" material="wood" x="-4.86" y="5.2773" rotation="0.0312" />
+		<Platform type="Platform" material="" x="-6.12" y="2.3556" rotation="0.0" scaleX="1.0" scaleY="0.5156" />
+		<Platform type="Platform" material="" x="-6.525" y="2.3556" rotation="0.0" scaleX="0.9844" scaleY="0.5156" />
+		<Platform type="Platform" material="" x="-4.88" y="2.3556" rotation="0.0" scaleX="1.0" scaleY="0.5156" />
+		<Platform type="Platform" material="" x="-4.475" y="2.3556" rotation="0.0" scaleX="0.9844" scaleY="0.5156" />
+		<Platform type="Platform" material="" x="-5.5" y="2.3556" rotation="0.0" scaleX="1.0" scaleY="0.5156" />
+	</GameObjects>
+</Level>

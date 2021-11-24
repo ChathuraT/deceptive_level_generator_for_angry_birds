@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Level width="2">
+  <Camera x="0" y="-1" minWidth="25" maxWidth="35" />
+  <Score highScore="966834" />
+  <Birds>
+    <Bird type="BirdRed" />
+    <Bird type="BirdRed" />
+    <Bird type="BirdRed" />
+  </Birds>
+  <Slingshot x="-12.0" y="-2.5" />
+  <GameObjects>
+    <Block type="CircleSmall" material="ice" x="1.21338" y="-0.19433" rotation="0.39511" />
+    <Block type="RectSmall" material="wood" x="1.49671" y="-0.52014" rotation="1.39843" />
+    <Block type="SquareTiny" material="ice" x="1.18276" y="-0.75626" rotation="1.06264" />
+    <Block type="RectTiny" material="ice" x="1.80387" y="-0.7444" rotation="1.22758" />
+    <Block type="RectBig" material="ice" x="1.49731" y="-0.97964" rotation="0.90017" />
+    <Block type="RectBig" material="stone" x="1.49842" y="-1.21036" rotation="0.97615" />
+    <Block type="SquareSmall" material="ice" x="0.5799" y="-1.55458" rotation="0" />
+    <Block type="RectTiny" material="ice" x="1.53232" y="-1.54226" rotation="90.32941" />
+    <Block type="RectTiny" material="ice" x="2.42685" y="-1.53518" rotation="90.28117" />
+    <Block type="RectFat" material="wood" x="0.5801" y="-1.98001" rotation="-0.00001" />
+    <Block type="RectFat" material="wood" x="1.49938" y="-1.98052" rotation="359.9895" />
+    <Block type="RectFat" material="wood" x="2.41989" y="-1.98005" rotation="0.00518" />
+    <Block type="CircleSmall" material="wood" x="1.77984" y="-0.18083" rotation="0.0272" />
+    <Pig type="BasicSmall" x="2.26192" y="-0.63769" rotation="1.07038" />
+    <Platform type="Platform" x="0.3675" y="-2.375" rotation="0" scaleX="0.6641" scaleY="0.5156" />
+    <Platform type="Platform" x="0.88" y="-2.375" rotation="0" scaleX="1" scaleY="0.5156" />
+    <Platform type="Platform" x="1.5" y="-2.375" rotation="0" scaleX="1" scaleY="0.5156" />
+    <Platform type="Platform" x="2.12" y="-2.375" rotation="0" scaleX="1" scaleY="0.5156" />
+    <Platform type="Platform" x="2.6325" y="-2.375" rotation="0" scaleX="0.6641" scaleY="0.5156" />
+  </GameObjects>
+</Level>
