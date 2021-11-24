@@ -34,5 +34,5 @@ link of the paper: https://ieee-cog.org/2021/assets/papers/paper_155.pdf
     3. Generated game levels will be available in the ```output_levels``` folder
 
 ## Example generated levels
-<img src="tasks/" width="1000"/>
+<img src="deceptive_level_generator_for_angry_birds/blob/main/generated_levels_sample/example_levels.PNG" width="1000"/>
 
