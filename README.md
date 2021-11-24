@@ -32,3 +32,7 @@ link of the paper: https://ieee-cog.org/2021/assets/papers/paper_155.pdf
         python level_generator.py <deception_index>
      ```
     3. Generated game levels will be available in the ```output_levels``` folder
+
+## Example generated levels
+<img src="tasks/" width="1000"/>
+
