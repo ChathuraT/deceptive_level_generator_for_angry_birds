@@ -27,7 +27,7 @@ link of the paper: https://ieee-cog.org/2021/assets/papers/paper_155.pdf
 
 1. To run the level generator:<br>
     1. Go to base directory
-    2. Run the level generator in the command line providing the deception index as an argument (1:Rolling/falling objects deception, 2:Clearing paths deception, 3: Entity strength analysis deception, 4: Non-greedy actions deception 5: Non-fixed tap time deception 6: TNT deception)
+    2. Run the level generator in the command line providing the deception index as an argument (1: Rolling/falling objects deception, 2: Clearing paths deception, 3: Entity strength analysis deception, 4: Non-greedy actions deception 5: Non-fixed tap time deception 6: TNT deception)
      ```
         python level_generator.py <deception_index>
      ```
